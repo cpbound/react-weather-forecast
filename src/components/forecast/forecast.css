@@ -4,7 +4,7 @@
 }
 
 .daily-item {
-  background-color: aliceblue;
+  background-color: #FFF56D;
   border-radius: 15px;
   height: 40px;
   margin: 5px;
@@ -45,6 +45,8 @@
   flex: 1 1;
   grid-template-columns: auto auto;
   padding: 5px 15px;
+  background-color: #FFD36E;
+  border-radius: 15px;
 }
 
 .daily-details-grid-item {
